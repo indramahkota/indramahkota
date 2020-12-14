@@ -21,5 +21,3 @@ Hello, there! I'm Indra Mahkota and I'm Indonesian.
 <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/html5.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/css3.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/sass.png"></code>
-
-<img src="https://github-readme-stats.vercel.app/api?username=indramahkota&show_icons=true">
