@@ -3,7 +3,7 @@
 
 # INTRODUCTION
 
-Hello, there! I'm Indra Mahkota and I'm Indonesian. I've always had a passion for programming. I am a geek, I love computers, and I love everything about them.
+Hello, there! I'm Indra Mahkota and I'm Indonesian.
 
 [![indramahkota.info](https://img.shields.io/static/v1?label=indramahkota.info&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://indramahkota.info/)
 [![gitlab.com/indramahkota](https://img.shields.io/static/v1?label=gitlab.com/indramahkota&message=%20&color=orange&logo=&style=flat-square&logoColor=white)](https://gitlab.com/indramahkota)
