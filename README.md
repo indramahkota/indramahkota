@@ -3,7 +3,7 @@
 
 # INTRODUCTION
 
-Hello, there! I'm Indra Mahkota and I'm Indonesian.
+Hello, I am Indra Mahkota. I'm trying to become a fullstack developer and try to be consistent in learning.
 
 [![indramahkota.info](https://img.shields.io/static/v1?label=indramahkota.info&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://indramahkota.info/)
 [![gitlab.com/indramahkota](https://img.shields.io/static/v1?label=gitlab.com/indramahkota&message=%20&color=orange&logo=&style=flat-square&logoColor=white)](https://gitlab.com/indramahkota)
