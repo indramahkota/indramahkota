@@ -18,3 +18,5 @@ Hello, I am Indra Mahkota. I'm trying to become a fullstack developer and try to
 <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/html5.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/css3.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/sass.png"></code>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indramahkota&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
