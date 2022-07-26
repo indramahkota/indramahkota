@@ -3,7 +3,7 @@
 
 # INTRODUCTION
 
-Hello, I am Indra Mahkota.<br>
+Hi there, I'm Indra.<br>
 I'm trying to become a fullstack developer and try to be consistent in learning.
 
 [![indramahkota.info](https://img.shields.io/static/v1?label=indramahkota.info&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://indramahkota.info/)
