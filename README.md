@@ -7,7 +7,7 @@ Hi there 👋<br>
 I'm trying to become a fullstack developer and try to be consistent in learning.
 
 [![indramahkota.info](https://img.shields.io/static/v1?label=indramahkota.info&message=%20&color=yellow&logo=&style=flat&logoColor=white)](https://indramahkota.info/)
-[![gitlab.com/indramahkota](https://img.shields.io/static/v1?label=gitlab.com/indramahkota&message=%20&color=orange&logo=&style=flat&logoColor=white)](https://gitlab.com/indramahkota) ![visitors](https://visitor-badge.glitch.me/badge?page_id=indramahkota.indramahkota)
+[![gitlab.com/indramahkota](https://img.shields.io/static/v1?label=gitlab.com/indramahkota&message=%20&color=orange&logo=&style=flat&logoColor=white)](https://gitlab.com/indramahkota)
 
 ## Languages and Tools
 
