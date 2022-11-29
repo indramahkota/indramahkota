@@ -20,9 +20,6 @@ I'm trying to become a fullstack developer and try to be consistent in learning.
 <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/css3.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/sass.png"></code>
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/flutter.png"></code> -->
-
-![stats](https://github-readme-stats-virid-iota.vercel.app/api?username=indramahkota&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
+![stats](https://github-readme-stats.vercel.app/api?username=indramahkota&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indramahkota&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
