@@ -9,7 +9,7 @@ I'm on a mission 🚀 to become a proficient Android Software Engineer. I'm dedi
 
 ### Journey
 My journey is still long. Currently, I'm focusing on modern Android development using Jetpack Compose, as explained in [Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)
-![image](https://github.com/indramahkota/indramahkota-private/assets/34052126/33be50bb-5dfb-45de-8019-eb6674b4a19c)
+[![Android Roadmap](https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/android_roadmap.png)](https://github.com/skydoves/android-developer-roadmap)
 
 ## Languages
 
@@ -35,5 +35,5 @@ My journey is still long. Currently, I'm focusing on modern Android development 
 ## Developer Page
 <!-- [![Google Play](https://github.com/indramahkota/indramahkota-private/assets/34052126/54bb9854-a072-4bb1-acb1-0307ed8e3276)](https://play.google.com/store/apps/dev?id=5432933310816228582) -->
 <a href="https://play.google.com/store/apps/dev?id=5432933310816228582">
-  <img src="https://github.com/indramahkota/indramahkota-private/assets/34052126/54bb9854-a072-4bb1-acb1-0307ed8e3276" height="72px"/>
+  <img src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/google_play.png" height="72px"/>
 </a>
