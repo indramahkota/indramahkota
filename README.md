@@ -8,8 +8,12 @@ I'm on a mission 🚀 to become a proficient Android Software Engineer. I'm dedi
 [![gitlab.com/indramahkota](https://img.shields.io/static/v1?label=gitlab.com/indramahkota&message=%20&color=orange&logo=&style=flat&logoColor=white)](https://gitlab.com/indramahkota) -->
 
 ### Journey
-My journey is still long. Currently, I'm focusing on modern Android development using Jetpack Compose, as explained in [Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)
-[![Android Roadmap](https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/android_roadmap.png)](https://github.com/skydoves/android-developer-roadmap)
+<div>
+<p>My journey is still long. Currently, I'm focusing on modern Android development using Jetpack Compose.</p>
+<a href="https://github.com/skydoves/android-developer-roadmap">
+  <img src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/android_roadmap.png" />
+</a>
+</div>
 
 ## Languages
 
