@@ -19,10 +19,10 @@ I'm on a mission 🚀 to become a proficient Android Software Engineer. I'm dedi
 
 <div align="center">
 <a href="https://wakatime.com/@indramahkota" target="_blank" >
-  <img align="left" src="https://wakatime.com/share/@indramahkota/d7610d6a-24a1-468e-b1ef-09090ff18884.svg" width="48%" />
+  <img align="left" src="https://wakatime.com/share/@indramahkota/d7610d6a-24a1-468e-b1ef-09090ff18884.svg" width="45%" />
 </a>
 <a href="https://wakatime.com/@indramahkota" target="_blank" >
-  <img align="right" src="https://wakatime.com/share/@indramahkota/8196378c-aa65-4636-8436-6f3125a94ac8.svg" width="48%" />
+  <img align="right" src="https://wakatime.com/share/@indramahkota/8196378c-aa65-4636-8436-6f3125a94ac8.svg" width="45%" />
 </a>
 </div>
 
