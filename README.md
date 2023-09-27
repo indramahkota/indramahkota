@@ -1,7 +1,8 @@
 <!-- markdownlint-disable MD001 MD026 -->
 <!-- markdownlint-disable MD001 MD033 -->
 
-## Hi there 👋<br>
+## Hi there 👋
+
 I'm on a mission 🚀 to become a proficient Software Engineer. I'm dedicated 🔥 to maintaining a consistent learning journey, and I'm passionate 🌟 about pushing the boundaries of what I can create and contribute to the tech world. 💻📱
 
 <!-- [![indramahkota.info](https://img.shields.io/static/v1?label=indramahkota.info&message=%20&color=yellow&logo=&style=flat&logoColor=white)](https://indramahkota.info/)
