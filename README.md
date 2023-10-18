@@ -27,12 +27,12 @@ I'm on a mission ğŸš€ to become a proficient Software Engineer. I'm dedicated ğŸ
 </a>
 </div> -->
 
-### Languages
+<!-- ### Languages -->
 
-<code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/kotlin.png"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/javascript.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/html5.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/css3.png"></code>
@@ -53,3 +53,7 @@ I'm on a mission ğŸš€ to become a proficient Software Engineer. I'm dedicated ğŸ
 <!-- <a href="https://play.google.com/store/apps/dev?id=5432933310816228582">
   <img src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/google_play.png" height="44px"/>
 </a> -->
+
+<a href="https://wakatime.com/indramahkota" target="_blank" >
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=indramahkota&layout=compact" />
+</a>
