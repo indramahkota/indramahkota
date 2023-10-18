@@ -27,12 +27,12 @@ I'm on a mission ðŸš€ to become a proficient Software Engineer. I'm dedicated ðŸ
 </a>
 </div> -->
 
-<!-- ### Languages -->
+### Languages
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/javascript.png"></code> -->
+<code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/javascript.png"></code>
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/html5.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/css3.png"></code>
@@ -40,11 +40,13 @@ I'm on a mission ðŸš€ to become a proficient Software Engineer. I'm dedicated ðŸ
 
 <!-- ![stats](https://github-readme-stats-eight-theta.vercel.app/api?username=indramahkota&show_icons=true&include_all_commits=true&count_private=true&theme=dracula) -->
 
-<!-- <p align="left">
+### Stats
+
+<p align="left">
 <a href="https://github.com/indramahkota">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=indramahkota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
-</p> -->
+</p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indramahkota&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -54,6 +56,8 @@ I'm on a mission ðŸš€ to become a proficient Software Engineer. I'm dedicated ðŸ
   <img src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/google_play.png" height="44px"/>
 </a> -->
 
-<a href="https://wakatime.com/indramahkota" target="_blank" >
+<!-- <a href="https://wakatime.com/indramahkota" target="_blank" >
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=indramahkota&layout=compact" />
-</a>
+</a> -->
+
+[![wakatime](https://wakatime.com/badge/user/bce4fc01-a457-4930-89b2-3df2008ff511.svg)](https://wakatime.com/@bce4fc01-a457-4930-89b2-3df2008ff511)
