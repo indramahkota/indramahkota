@@ -42,11 +42,11 @@ I'm on a mission ğŸš€ to become a proficient Software Engineer. I'm dedicated ğŸ
 
 ### Stats
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://github.com/indramahkota">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=indramahkota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
-</p>
+</p> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indramahkota&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
