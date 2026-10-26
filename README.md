@@ -1,64 +1,54 @@
-<!-- markdownlint-disable MD001 MD026 -->
-<!-- markdownlint-disable MD001 MD033 -->
+<!-- markdownlint-disable MD033 MD041 -->
 
-## Hi there 👋
+# Hi, I'm Indra Mahkota
 
-I'm on a mission 🚀 to become a proficient Software Engineer. I'm dedicated 🔥 to maintain a consistent learning journey and I'm passionate 🌟 about pushing the boundaries of what I can create and contribute to the tech world. 💻📱
+I build Android and Kotlin Multiplatform applications alongside full-stack web systems, with professional experience in telecommunications, investment, and mobile application security. My focus is application architecture, API integration, and making systems easier to maintain.
 
-<!-- [![indramahkota.info](https://img.shields.io/static/v1?label=indramahkota.info&message=%20&color=yellow&logo=&style=flat&logoColor=white)](https://indramahkota.info/)
-[![gitlab.com/indramahkota](https://img.shields.io/static/v1?label=gitlab.com/indramahkota&message=%20&color=orange&logo=&style=flat&logoColor=white)](https://gitlab.com/indramahkota) -->
+## Tech stack
 
-<!-- ### Journey
-<div>
-<p>Currently, I'm focusing on modern Android development using Jetpack Compose.</p>
-<a href="https://github.com/skydoves/android-developer-roadmap">
-  <img src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/android_roadmap.png" />
-</a>
-</div> -->
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,ts,js,spring,postgres,react,nextjs,docker,githubactions&perline=10" width="360" alt="Kotlin, Java, TypeScript, JavaScript, Spring, PostgreSQL, React, Next.js, Docker, GitHub Actions">
+</p>
 
-<!-- ### Language and Tools
+| Area | Tools |
+| --- | --- |
+| **Mobile** | Kotlin, Java, Jetpack Compose, Kotlin Multiplatform, Coroutines, Ktor, Koin, BLE, Health Connect |
+| **Backend & AI** | Spring Boot, PostgreSQL/pgvector, MCP, OpenAPI, hybrid document retrieval, workflow automation |
+| **Web** | TypeScript, JavaScript, React, Next.js |
+| **Architecture & delivery** | MVVM, dependency injection, API integration, unit testing, Git, GitHub Actions, Docker |
 
-<div align="center">
-<a href="https://wakatime.com/@indramahkota" target="_blank" >
-  <img align="left" src="https://wakatime.com/share/@indramahkota/d7610d6a-24a1-468e-b1ef-09090ff18884.svg" width="45%" />
-</a>
-<a href="https://wakatime.com/@indramahkota" target="_blank" >
-  <img align="right" src="https://wakatime.com/share/@indramahkota/8196378c-aa65-4636-8436-6f3125a94ac8.svg" width="45%" />
-</a>
-</div> -->
+## Selected work
 
-### Languages
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Averra AI</h3>
+      <p>An agentic AI platform in active development for document retrieval, workflow automation, task planning, file generation, and user-controlled memory.</p>
+      <p>Built an MCP server, hybrid retrieval, Kotlin/Spring Boot services, a Next.js web client, and a Kotlin Multiplatform client for Android, iOS, and desktop.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/MCP-555555?style=flat-square" alt="MCP">
+      </p>
+      <a href="https://www.indramahkota.info/projects/averra-ai"><b>Case study →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>QRMomen</h3>
+      <p>An Android event photo-sharing app that brings guests into a shared album through QR codes and event links.</p>
+      <p>Developed the Android application and its product landing page.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+      </p>
+      <a href="https://www.indramahkota.info/projects/qrmomen"><b>Case study →</b></a> ·
+      <a href="https://play.google.com/store/apps/details?id=com.qrmomen.app"><b>Google Play →</b></a>
+    </td>
+  </tr>
+</table>
 
-<code><img src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/kotlin.png" style="height:20px;"></code>
-<code><img src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/java.png" style="height:20px;"></code>
-<code><img src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/typescript.png" style="height:20px;"></code>
-<code><img src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/javascript.png" style="height:20px;"></code>
+<sub>Other repositories on this account are learning experiments and forks of open source projects. Forks keep their upstream attribution.</sub>
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/html5.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/css3.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/sass.png"></code> -->
+## Coding activity
 
-<!-- ![stats](https://github-readme-stats-eight-theta.vercel.app/api?username=indramahkota&show_icons=true&include_all_commits=true&count_private=true&theme=dracula) -->
-
-### Stats
-
-<!-- <p align="left">
-<a href="https://github.com/indramahkota">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=indramahkota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-</p> -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indramahkota&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- ### Developer Page -->
-<!-- [![Google Play](https://github.com/indramahkota/indramahkota-private/assets/34052126/54bb9854-a072-4bb1-acb1-0307ed8e3276)](https://play.google.com/store/apps/dev?id=5432933310816228582) -->
-<!-- <a href="https://play.google.com/store/apps/dev?id=5432933310816228582">
-  <img src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/google_play.png" height="44px"/>
-</a> -->
-
-<!-- <a href="https://wakatime.com/indramahkota" target="_blank" >
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=indramahkota&layout=compact" />
-</a> -->
-
-[![wakatime](https://wakatime.com/badge/user/bce4fc01-a457-4930-89b2-3df2008ff511.svg)](https://wakatime.com/@bce4fc01-a457-4930-89b2-3df2008ff511)
+[![WakaTime](https://wakatime.com/badge/user/bce4fc01-a457-4930-89b2-3df2008ff511.svg)](https://wakatime.com/@bce4fc01-a457-4930-89b2-3df2008ff511)
