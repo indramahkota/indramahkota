@@ -32,7 +32,7 @@ I build Android and Kotlin Multiplatform applications alongside full-stack web s
         <img src="https://img.shields.io/badge/MCP-555555?style=flat-square" alt="MCP">
       </p>
       <a href="https://www.indramahkota.info/projects/averra-ai"><b>Case study →</b></a> ·
-      <a href="https://averra-ai.indramahkota.info/projects/averra-ai"><b>Website →</b></a>
+      <a href="https://averra-ai.indramahkota.info"><b>Website →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>QRMomen</h3>
@@ -43,7 +43,7 @@ I build Android and Kotlin Multiplatform applications alongside full-stack web s
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
       </p>
       <a href="https://www.indramahkota.info/projects/qrmomen"><b>Case study →</b></a> ·
-      <a href="https://qrmomen.indramahkota.info/projects/averra-ai"><b>Website →</b></a> ·
+      <a href="https://qrmomen.indramahkota.info"><b>Website →</b></a> ·
       <a href="https://play.google.com/store/apps/details?id=com.qrmomen.app"><b>Google Play →</b></a>
     </td>
   </tr>
